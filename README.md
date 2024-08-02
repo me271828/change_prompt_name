@@ -1,0 +1,2 @@
+# change_prompt_name
+用来便捷更改bash和fish命令行提示符的rust代码
