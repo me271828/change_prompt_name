@@ -1,0 +1,10 @@
+[package]
+name = "code"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = "3"
+regex = "1"
+dirs = "3"
+
